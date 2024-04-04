@@ -4,8 +4,5 @@ Expiry date / KEY / Name
 
 0000-00-00 / 11403u0_a1403 / SK Naing
 0000-00-00 / 10452u0_a452 / A30
-2024-04-02 / 10331u0_a331 / Sal JoHn
-2024-04-03 / 10278u0_a278 / NayOake Soe
-2024-04-03 / 10368u0_a368 / Paing Soe Thu
-2024-04-03 / 10380u0_a380 / Kaung Myat Soe
 2024-04-04 / 10315u0_a315 / ~~ ~~
+2024-04-05 / 10340u0_a340 / Htet Arkar Soe
