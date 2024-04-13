@@ -4,9 +4,6 @@ Expiry date / KEY / Name
 
 0000-00-00 / 11403u0_a1403 / SK Naing
 0000-00-00 / 10452u0_a452 / A30
-2024-04-12 / 10061u0_a61 / Htet Arkar Soe
-2024-04-13 / 10473u0_a473 / Min Aung Hlaing
-2024-04-13 / 10408u0_a408 / Salai
 2024-04-14 / 10598u0_a598 / Wai Phyo Aung
 2024-04-14 / 10273u0_a273 / Seng Myit
 2024-04-16 / 10299u0_a299 / Mg Than Zin Lin
